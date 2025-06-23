@@ -1,0 +1,10 @@
+config:  
+  kafka:
+    consumer:
+      enableConsumer:
+        plim: false
+        anaplan: true
+        anaplanAttributes: true
+        bom: false
+        standard: false
+        finishedGoodOffer: false
